@@ -1,0 +1,17 @@
+{
+  "name": "discord-active-dev-badge",
+  "version": "1.0.0",
+  "description": "A bot to get the active dev badge",
+  "main": "index.js",
+  "type": "commonjs",
+  "author": "flamekiller22",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
